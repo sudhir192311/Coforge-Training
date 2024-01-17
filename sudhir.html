@@ -1,0 +1,8 @@
+<html>
+<body bgcolor="yellow">
+<body>
+  <center>
+<h1>This is DevOps CI/CD  project </h1>
+<font color="black"><marquee>Welcome To IT world</marquee</font>
+</body>
+</html>
